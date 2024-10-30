@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hookit Related Products\n"
+"POT-Creation-Date: 2016-05-17 19:41-0300\n"
+"PO-Revision-Date: 2016-05-17 19:42-0300\n"
+"Last-Translator: \n"
+"Language-Team: Hookit <contato@hookit.cc>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/actions.php:88 admin/metabox.php:13 admin/settings.php:44
+msgid "Hookit Recommended Products"
+msgstr "Hookit Produtos Recomendados"
+
+#: admin/actions.php:89
+msgid "Hookit"
+msgstr "Hookit"
+
+#: admin/actions.php:99 admin/actions.php:100 admin/views/header.php:6
+msgid "Settings"
+msgstr "Configurações"
+
+#: admin/actions.php:108 admin/actions.php:109 admin/views/header.php:11
+msgid "Update Posts"
+msgstr "Atualizar posts"
+
+#: admin/tool.php:44
+msgid "Ok"
+msgstr "Ok"
+
+#: admin/views/metabox.php:14
+msgid "Deactivate recommended products to this post."
+msgstr "Desativar produtos recomendados para este post."
+
+#: admin/views/metabox.php:34
+msgid "Inactive"
+msgstr "Inativo"
+
+#: admin/views/metabox.php:41
+msgid "Any product found for this post."
+msgstr "Nenhum produto relacionado encontrado para esse post."
+
+#: admin/views/settings.php:10
+msgid "Title"
+msgstr "Título"
+
+#: admin/views/settings.php:22
+msgid "Title of the product list on the post page"
+msgstr "Título da lista de produtos na página do post"
+
+#: admin/views/settings.php:28
+msgid "Products"
+msgstr "Produtos"
+
+#: admin/views/settings.php:43
+msgid "The number of products to show on the post page"
+msgstr "Número de produtos exibidos no post"
+
+#: admin/views/settings.php:49
+msgid "Token"
+msgstr "Token"
+
+#: admin/views/settings.php:61
+#, php-format
+msgid ""
+"Fill with your Hookit token. Not yet registered? <a href=\"%s\" target="
+"\"_blank\">Register here</a>.<br />To discover what is your token, go to "
+"your profile on Hookit. The token is a sequence of numbers and letters next "
+"to your username."
+msgstr ""
+"Preencha o seu token do Hookit. Ainda não é cadastrado? <a href=\"%s\" "
+"target=\"_blank\">Cadastre-se já!</a>.<br />Para descobrir qual é o seu "
+"token, acesse o seu perfil no Hookit. O token é a sequência de números e "
+"letras junto de seu nome de usuário."
+
+#: admin/views/settings.php:67
+msgid "Categories"
+msgstr "Categorias"
+
+#: admin/views/settings.php:79
+msgid ""
+"Select the categories inwhich want the recommended products are displayed."
+msgstr ""
+"Selecione as categorias nas quais você quer que os produtos recomendados "
+"sejam exibidos."
+
+#: admin/views/settings.php:85 admin/views/settings.php:90
+msgid "Signature"
+msgstr "Assinatura"
+
+#: admin/views/settings.php:99
+msgid "Add Hookit signature in the recommended products list."
+msgstr "Adicionar assinatura da Hookit na lista de produtos recomendados."
+
+#: admin/views/settings.php:106
+msgid "Gender"
+msgstr "Gênero"
+
+#: admin/views/settings.php:112
+msgid "Both"
+msgstr "Ambos"
+
+#: admin/views/settings.php:113
+msgid "Female"
+msgstr "Feminino"
+
+#: admin/views/settings.php:114
+msgid "Male"
+msgstr "Masculino"
+
+#: admin/views/settings.php:125
+msgid "The gender of recommended products."
+msgstr "O gênero dos produtos recomendados."
+
+#: admin/views/tool.php:11
+msgid "Getting recommended products..."
+msgstr "Obtendo produtos recomendados…"
+
+#: admin/views/tool.php:16
+msgid "Process all posts"
+msgstr "Processar todos posts"
+
+#: includes/functions.php:120
+#, php-format
+msgid ""
+"See the <a href=\"%s\" target=\"_blank\">Wiki page</a> to solve this problem."
+msgstr ""
+"Consulte a <a href=“%s” target=“_blank”>página Wiki</a>, para resolver este "
+"problema."
+
+#: includes/functions.php:154
+#, php-format
+msgid "The Web Service returned the %d code."
+msgstr "O serviço da Web retornou o código %d."
+
+#~ msgid "Recommended Products"
+#~ msgstr "Produtos Recomendados"
+
+#~ msgid "Select the categories that will show recommended products."
+#~ msgstr "Selecione as categorias que exibirão produtos recomendados."
+
+#~ msgid "Hookit Related Products"
+#~ msgstr "Hookit - Produtos Relacionados"
+
+#~ msgid "Related Products"
+#~ msgstr "Produtos Relacionados"
+
+#~ msgid "Deactivate related products to this post."
+#~ msgstr "Desative os produtos relacionados deste post."
+
+#~ msgid "The Web Service URL wasn't defined."
+#~ msgstr "A URL do Web Service não foi definida."
+
+#~ msgid "The Web Service parameters wasn't defined."
+#~ msgstr "Os parâmetros do  não foi definido."
+
+#~ msgid "Cannot connect the to Hookit Database."
+#~ msgstr "Não foi possível conectar ao Banco de Dados da Hookit."
+
+#~ msgid "The Web Service return the %d code."
+#~ msgstr "O Web Service retornar o código de %d."
+
+#~ msgid ""
+#~ "The Hookit database parameters wasn't defined. See the <a href=\"%s\" "
+#~ "target=\"_blank\">Wiki page</a> to solve this problem."
+#~ msgstr ""
+#~ "Os parâmetros do Banco de Dados da Hookit não foram definidos. Veja a <a "
+#~ "href=\"%s\" target=\"_blank\">página da Wiki</a> para resolver esse "
+#~ "problema."

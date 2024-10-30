@@ -1,0 +1,56 @@
+/* line 1, ../../../sass/style.scss */
+.hookit-recommended-products {
+  margin-bottom: 30px;
+}
+/* line 4, ../../../sass/style.scss */
+.hookit-recommended-products a {
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  vertical-align: middle;
+  width: 100%;
+}
+/* line 13, ../../../sass/style.scss */
+.hookit-recommended-products img {
+  max-height: 100%;
+  max-width: 100%;
+}
+/* line 18, ../../../sass/style.scss */
+.hookit-recommended-products p {
+  text-align: center;
+}
+/* line 22, ../../../sass/style.scss */
+.hookit-recommended-products .hookit-recommended-title {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+/* line 27, ../../../sass/style.scss */
+.hookit-recommended-products .product {
+  float: left;
+  margin: 0 1% 20px;
+  width: 23%;
+}
+/* line 33, ../../../sass/style.scss */
+.hookit-recommended-products .hookit-recommended-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+/* line 39, ../../../sass/style.scss */
+.hookit-recommended-products .hookit-recommended-img-wrapper {
+  margin: 1em 0;
+  padding-top: 100%;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 100%;
+}
+/* line 48, ../../../sass/style.scss */
+.hookit-recommended-products .clear {
+  clear: both;
+}
+/* line 52, ../../../sass/style.scss */
+.hookit-recommended-products .sign {
+  text-align: right;
+}
